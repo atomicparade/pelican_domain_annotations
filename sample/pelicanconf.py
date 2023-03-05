@@ -1,4 +1,4 @@
-SITENAME = 'pelican_footnote_linker test'
+SITENAME = 'pelican_domain_annotations test'
 SITEURL = 'http://localhost:8000'
 
 TIMEZONE = 'Europe/Rome'
